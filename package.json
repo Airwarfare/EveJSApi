@@ -1,0 +1,22 @@
+{
+  "name": "esijsapi",
+  "version": "0.0.1",
+  "description": "An api for ESI",
+  "main": "tt.js",
+  "scripts": {
+    "test": "testesi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airwarfare/EveJSApi.git"
+  },
+  "keywords": [
+    "EVE"
+  ],
+  "author": "airwarfare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Airwarfare/EveJSApi/issues"
+  },
+  "homepage": "https://github.com/Airwarfare/EveJSApi#readme"
+}
